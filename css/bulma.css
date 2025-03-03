@@ -1,6 +1,17 @@
 @charset "UTF-8";
 /*! bulma.io v1.0.2 | MIT License | github.com/jgthms/bulma */
 /* Bulma Utilities */
+
+:root {
+  --bulma-primary-h: 287deg;
+  --bulma-primary-s: 89%;
+  --bulma-primary-l: 85%;
+  --bulma-link-h: 242deg;
+  --bulma-success-l: 68%;
+  --bulma-warning-l: 89%;
+  --bulma-danger-h: 354deg;
+  --bulma-danger-l: 75%;
+}
 :root {
   --bulma-control-radius: var(--bulma-radius);
   --bulma-control-radius-small: var(--bulma-radius-small);
